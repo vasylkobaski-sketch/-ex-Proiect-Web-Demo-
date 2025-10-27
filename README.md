@@ -1,6 +1,6 @@
 # Proiect-Web-Demo 
 # O zi buna
- ## Frumoasa
-*cosa fai* sau 
- - che cosa hai fatto
+ ## O zi frumoasa
+*Ce faci?* sau **Azi**
+ - 
  
